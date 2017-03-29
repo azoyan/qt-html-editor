@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>openFolder.png</file>
+        <file>search.png</file>
+        <file>openInBrowser.png</file>
+        <file>replace.png</file>
+    </qresource>
+</RCC>

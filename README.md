@@ -1,2 +1,2 @@
-# qt-html-editor
-Application to edit html and 'on the fly' view result
+# text-html
+Просмотр и редактирование "на лету" html файлов, с расширенными возможностями поиска
